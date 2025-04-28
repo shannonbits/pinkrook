@@ -1,42 +1,38 @@
-##♟️ PinkRook Downloader##
+# ♟️ PinkRook Downloader
 
-Welcome to PinkRook — a fun, lightweight chess app where you battle against the powerful Stockfish engine!
+Welcome to **PinkRook** — a fun, lightweight chess app where you battle against the powerful **Stockfish** engine! 🧠
 
-This repository provides the official PinkRook Setup Installer for easy installation. 🖥️
-✨ Features
+---
 
-    🎯 Simple Installation — One-click setup with an installer wizard
+## ✨ Features
 
-    🧠 Powerful AI — Challenge the mighty Stockfish engine
+- 🎯 **Simple Installation** — One-click setup with an installer wizard
+- 🧠 **Powerful AI** — Challenge the mighty Stockfish engine
+- 📦 **No Extra Installs** — No need for Python, libraries, or extra downloads
+- 🎨 **Custom Design** — Beautiful chess pieces and a custom app icon
+- ⚡ **Lightweight** — Fast to download, quick to install
 
-    📦 No Extra Installs — No need for Python, libraries, or extra downloads
+---
 
-    🎨 Custom Design — Beautiful chess pieces and a custom app icon
+## 📥 How to Install
 
-    ⚡ Lightweight — Fast to download, quick to install
+1. **Download** the latest `PinkRookSetup.exe` from the [Releases](#) page.
+2. **Run** the installer and follow the steps.
+3. **Launch** PinkRook from your **Desktop** or **Start Menu**!
 
-📥 How to Install
+---
 
-    Download the latest PinkRookSetup.exe from the Releases page.
+## 📋 Requirements
 
-    Run the installer and follow the steps.
+- Windows 7, 8, 10, or 11
+- 64-bit or 32-bit system
+- No internet needed after installation
+- No separate Python installation needed
 
-    Launch PinkRook from your Desktop or Start Menu!
+---
 
-📋 Requirements
+## 📖 About PinkRook
 
-    Windows 7, 8, 10, or 11
-
-    64-bit or 32-bit system
-
-    No internet needed after installation
-
-    No separate Python installation needed
-
-📖 About PinkRook
-
-PinkRook is an offline chess game powered by the world-famous Stockfish engine.
+PinkRook is an offline chess game powered by the world-famous **Stockfish** engine.  
 It features a simple and clean design — perfect for quick and challenging games against an advanced AI. ♜
-🛠️ Developer Notes
 
-This installer was built using Inno Setup and packaged with PyInstaller.
