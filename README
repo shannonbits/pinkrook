@@ -1,65 +1,42 @@
-🏰 PinkRook Downloader
+###♟️ PinkRook Downloader ###
 
-PinkRook is a fun and user-friendly chess game that allows you to play against the powerful Stockfish engine!
-This repository contains the PinkRook Downloader — a simple setup program that installs PinkRook on your computer.
-📦 Features
+Welcome to PinkRook — a fun, lightweight chess app where you battle against the powerful Stockfish engine!
 
-    📥 Easy and fast installation with a Setup Wizard
+This repository provides the official PinkRook Setup Installer for easy installation. 🖥️
+✨ Features
 
-    🎨 Custom PinkRook icon for a polished desktop experience
+    🎯 Simple Installation — One-click setup with an installer wizard
 
-    ♟ Includes the Stockfish chess engine for strong AI gameplay
+    🧠 Powerful AI — Challenge the mighty Stockfish engine
 
-    🧩 All necessary game assets (pieces, icons) included automatically
+    📦 No Extra Installs — No need for Python, libraries, or extra downloads
 
-🚀 Installation
+    🎨 Custom Design — Beautiful chess pieces and a custom app icon
 
-    Download the latest Setup.exe file from Releases.
+    ⚡ Lightweight — Fast to download, quick to install
 
-    Run the installer and follow the on-screen instructions.
+📥 How to Install
+
+    Download the latest PinkRookSetup.exe from the Releases page.
+
+    Run the installer and follow the steps.
 
     Launch PinkRook from your Desktop or Start Menu!
 
-🎮 Requirements
+📋 Requirements
 
-    Windows 7, 8, 10, or 11 (64-bit or 32-bit)
+    Windows 7, 8, 10, or 11
 
-    No internet connection required after installation
+    64-bit or 32-bit system
+
+    No internet needed after installation
 
     No separate Python installation needed
 
-🛠 How it Works
+📖 About PinkRook
 
-PinkRook runs as a standalone application built with:
+PinkRook is an offline chess game powered by the world-famous Stockfish engine.
+It features a simple and clean design — perfect for quick and challenging games against an advanced AI. ♜
+🛠️ Developer Notes
 
-    Python 3
-
-    PyInstaller (for executable)
-
-    Inno Setup (for the installer)
-
-    Stockfish Chess Engine
-
-    Pillow (for image handling)
-
-📁 Project Structure
-
-PinkRookRelease/
-│
-├── pinkrook.exe        # Main game executable
-├── pieces/             # Folder containing chess piece images
-├── stockfish.exe       # Chess engine
-├── pinkrook.ico        # Application icon
-└── Setup.exe           # Installer (generated with Inno Setup)
-
-✨ Screenshots
-
-    (Add some screenshots here if you have them — game board, installer, etc!)
-
-📜 License
-
-This project is shared for learning and fun!
-Stockfish engine is licensed under the GPLv3 License.
-
-PinkRook's source code, images, and installer are provided as-is.
-❤️ Thank you for downloading and playing PinkRook!
+This installer was built using Inno Setup and packaged with PyInstaller.
